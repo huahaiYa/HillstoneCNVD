@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# HillstoneCNVD
-首先需要安装python-docx库
-
-原理是基于docx文档批量复制输出文档。
-
-url.txt中需要放置漏洞单位名称+URl    例如：至信http://222.178.227.xxx:xxx  
-=======
 # 山石网科CNVD工具
 
 山石网科CNVD工具是用于CNVD报告自动化生成以及漏洞是否通过验证的工具，使用者可以通过不同的模块灵活使用功能，并且该工具被封装为EXE文件，简单易上手，下面是该工具的使用说明：
@@ -113,5 +105,6 @@ Author：whale3070 ,muyu
 
 
 <font size="60" color="red">**拜拜**</font>
->>>>>>> 8ebfeca (V3.0)
+
+
 
